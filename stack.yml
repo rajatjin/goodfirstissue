@@ -8,4 +8,4 @@ functions:
     handler: ./goodfirstissue
     image: goodfirstissue:0.1
     secrets:
-      - goodfirstissue
+      - dal-goodfirstissue
